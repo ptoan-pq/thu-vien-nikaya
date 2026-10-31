@@ -70,4 +70,12 @@ document.querySelectorAll('.filter').forEach(btn=>btn.addEventListener('click',(
 document.getElementById('clearSearch').addEventListener('click',()=>{search.value='';activeFilter='all';syncFilters();render();search.focus();});
 search.addEventListener('input',render);
 document.getElementById('backToLibrary').addEventListener('click',()=>{document.body.classList.remove('focus-mode');window.scrollTo({top:libraryScroll,behavior:'instant'});search.focus({preventScroll:true});});
+document.getElementById('libraryHome').addEventListener('click',event=>{
+  if(event.button||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+  event.preventDefault();
+  document.body.classList.remove('focus-mode');
+  search.value='';activeFilter='all';syncFilters();render();
+  window.scrollTo({top:0,behavior:'instant'});
+  search.focus({preventScroll:true});
+});
 syncFilters();render();

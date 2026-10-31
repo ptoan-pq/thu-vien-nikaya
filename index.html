@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Thư viện Nikāya Pháp Toàn</title>
+  <meta name="description" content="Tra cứu kinh Nikāya và đọc các bài tóm lược có bố cục; nguyên văn dẫn về BuddhaSasana.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-mark" aria-hidden="true">☸</div>
+    <div><p class="eyebrow">HỌC KINH THEO NGUỒN</p><h1>Thư viện Nikāya <span>Pháp Toàn</span></h1></div>
+    <div class="topbar-note">Tóm lược tại đây<br><strong>Nguyên văn tại BuddhaSasana</strong></div>
+  </header>
+  <main class="shell">
+    <section class="search-panel" aria-label="Tra cứu">
+      <label for="search">Tìm tên bài Kinh, mã kinh hoặc tên Pāli</label>
+      <div class="search-row"><input id="search" type="search" placeholder="Ví dụ: MN 22, con rắn, Phạm võng…" autocomplete="off"><button id="clearSearch" class="ghost-button" type="button">Xóa</button></div>
+      <div class="filter-row" role="group" aria-label="Chọn bộ kinh">
+        <button class="filter active" data-filter="all">Tất cả</button>
+        <button class="filter" data-filter="DN">Trường Bộ</button>
+        <button class="filter" data-filter="MN">Trung Bộ</button>
+        <button class="filter" data-filter="SN">Tương Ưng Bộ</button>
+        <button class="filter" data-filter="AN">Tăng Chi Bộ</button>
+        <button class="filter" data-filter="KN">Tiểu Bộ</button>
+      </div>
+    </section>
+    <section class="content-grid">
+      <div class="results-column">
+        <div class="section-heading"><h2>Danh sách bài Kinh</h2><span id="resultCount" class="result-count"></span></div>
+        <div id="suttaList" class="sutta-list"></div>
+      </div>
+      <article class="detail-card" id="detailCard" aria-labelledby="detailTitle">
+        <button id="backToLibrary" class="back-button" type="button">← Quay lại danh sách</button>
+        <h2 id="detailTitle" tabindex="-1"></h2>
+        <p id="detailSubtitle" class="detail-subtitle"></p>
+        <a id="sourceLink" class="source-button" href="https://www.budsas.org/uni/index.htm" target="_blank" rel="noopener">Mở nguyên văn tại BuddhaSasana ↗</a>
+        <div class="detail-divider"></div>
+        <div id="detailBody" class="detail-body"></div>
+      </article>
+    </section>
+  </main>
+  <footer class="footer">Nguồn nguyên văn: BuddhaSasana · Phần ứng dụng được phân biệt với lời kinh</footer>
+  <script src="library-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

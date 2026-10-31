@@ -1,0 +1,451 @@
+{
+  "catalogue_suttas": 186,
+  "written_articles": 74,
+  "articles": {
+    "DN 1": {
+      "file": "content/DN-001.md",
+      "sha256": "eed40d91cae678f2b3ca2f4d030c721eefc3e3682cb061541420309b97a4777c",
+      "words": 1923,
+      "sections": 3
+    },
+    "DN 2": {
+      "file": "content/DN-002.md",
+      "sha256": "95a51fcdba5ac583cec06afea5844a1d9c29d07124e6e7d905c7bc1d644aa3a8",
+      "words": 2034,
+      "sections": 3
+    },
+    "DN 3": {
+      "file": "content/DN-003.md",
+      "sha256": "aee28cfe9640e572ed1cbdfff9aac15cc02101f011336be48292c5ede0f830e3",
+      "words": 1520,
+      "sections": 3
+    },
+    "DN 4": {
+      "file": "content/DN-004.md",
+      "sha256": "06a9b3e30797ff0e7c9052ad1c17ceecbabfc5a614889f9cf791da9be8ca1088",
+      "words": 1413,
+      "sections": 3
+    },
+    "DN 5": {
+      "file": "content/DN-005.md",
+      "sha256": "7fc991df28ff81c9fdeb2bb2c62cd8d1d2e7a71313160b10952c091457a3636d",
+      "words": 1643,
+      "sections": 3
+    },
+    "DN 6": {
+      "file": "content/DN-006.md",
+      "sha256": "d751940ed8d84bad5fac537e22dbc8e49367fffba18e4a5c87368dd31ccbcbe7",
+      "words": 1241,
+      "sections": 3
+    },
+    "DN 7": {
+      "file": "content/DN-007.md",
+      "sha256": "39510c44fa178c4cd93fc99233569d4b4e34a17d3391b4630039a6a9e950d286",
+      "words": 1060,
+      "sections": 3
+    },
+    "DN 8": {
+      "file": "content/DN-008.md",
+      "sha256": "f83e98cce6612e98d655aeb5d9aa887eb4cb204a254425f303107c640fc588fe",
+      "words": 1513,
+      "sections": 3
+    },
+    "DN 9": {
+      "file": "content/DN-009.md",
+      "sha256": "a2f4d017b8d441efe4ef13d96d82d7a5457684e5a2a1e8671cc2580fe691d25d",
+      "words": 1478,
+      "sections": 3
+    },
+    "DN 10": {
+      "file": "content/DN-010.md",
+      "sha256": "04346478b4aa187056c4b03c83d6ea8256fc00ab198e0ca4aa2b07a6feaca22b",
+      "words": 1572,
+      "sections": 3
+    },
+    "DN 11": {
+      "file": "content/DN-011.md",
+      "sha256": "d76426f458f952ee3649e4f587bc5c10041f0083656f3f1c5947239ff5146429",
+      "words": 1718,
+      "sections": 3
+    },
+    "DN 12": {
+      "file": "content/DN-012.md",
+      "sha256": "7f2c422de228cc215266c1b90b69b5b075c25a481a502fa88740bacf3bf3e20e",
+      "words": 1999,
+      "sections": 3
+    },
+    "DN 13": {
+      "file": "content/DN-013.md",
+      "sha256": "88f4915dad82f34b2f8859d23d908f7ef6ca3e4f560aa17dc2d41f699253e9e4",
+      "words": 2075,
+      "sections": 3
+    },
+    "DN 14": {
+      "file": "content/DN-014.md",
+      "sha256": "e204d53ce1ccb1b4c99ac5f0e47daccae7697cae1fb2b12881a7a27abe8add27",
+      "words": 2401,
+      "sections": 3
+    },
+    "DN 15": {
+      "file": "content/DN-015.md",
+      "sha256": "c647facd7268c7fcd4889d340ce44d5b7047c83372206868aa9d1eff0ac64f45",
+      "words": 2357,
+      "sections": 3
+    },
+    "DN 16": {
+      "file": "content/DN-016.md",
+      "sha256": "3b53a0e06f6421f86933fed5f515aaf9ebf77ba043baf833f15aa68124cd85e0",
+      "words": 4508,
+      "sections": 3
+    },
+    "DN 17": {
+      "file": "content/DN-017.md",
+      "sha256": "747cf9821278a896a90b41111466fade36b14b50f717f92c7e24e706bfa7c338",
+      "words": 2217,
+      "sections": 3
+    },
+    "DN 18": {
+      "file": "content/DN-018.md",
+      "sha256": "9bfadc90f97b3db39bce96e2341c1cbc656eee7e814ef07909048c2276949f6f",
+      "words": 1772,
+      "sections": 3
+    },
+    "DN 19": {
+      "file": "content/DN-019.md",
+      "sha256": "a0947acdbc2c62aeef0d4232db3e76ad6a1fe9d4e52646d54911a61ff7b3bcc5",
+      "words": 1678,
+      "sections": 3
+    },
+    "DN 20": {
+      "file": "content/DN-020.md",
+      "sha256": "6be2eac0f9230527010a6cebb8ce77545699eed6c6cec8ad642bd34430ed01d5",
+      "words": 1599,
+      "sections": 3
+    },
+    "DN 21": {
+      "file": "content/DN-021.md",
+      "sha256": "78c19743394551ba6ebe63acfff9e3e2604fc88540710c845c0ccbdaa0173cfa",
+      "words": 1988,
+      "sections": 3
+    },
+    "DN 22": {
+      "file": "content/DN-022.md",
+      "sha256": "4c65a45111ef63dbe50774fa731678145de4e377b604bee1c42c38e7076be0f9",
+      "words": 3413,
+      "sections": 3
+    },
+    "DN 23": {
+      "file": "content/DN-023.md",
+      "sha256": "f7dcc9baf6396264e2086c16abe84f9cfac2d12e5d1dc2cbf91c6e70f9856402",
+      "words": 2212,
+      "sections": 3
+    },
+    "DN 24": {
+      "file": "content/DN-024.md",
+      "sha256": "f8f3cba9a1c927e1be3bb801df1c9071360437730d8f354a6148077da5893b10",
+      "words": 1646,
+      "sections": 3
+    },
+    "DN 25": {
+      "file": "content/DN-025.md",
+      "sha256": "feb2e12d9a6a954fede3a60ce34ec0597b76943dce18a70b706e717acbe52680",
+      "words": 1875,
+      "sections": 3
+    },
+    "DN 26": {
+      "file": "content/DN-026.md",
+      "sha256": "85a032a2bf14e611bcba953322873cec3376205077c44c1e92a801c2581adf97",
+      "words": 2026,
+      "sections": 3
+    },
+    "DN 27": {
+      "file": "content/DN-027.md",
+      "sha256": "60c0b4bc5f4b5834ec58afa670e953e4c40fe0bd75b74d7c3fe9691f269ecb46",
+      "words": 1835,
+      "sections": 3
+    },
+    "DN 28": {
+      "file": "content/DN-028.md",
+      "sha256": "c8534a120a067283f582cd5eed5c92b5136dc52eee596f575ee74df6589a9ef0",
+      "words": 1851,
+      "sections": 3
+    },
+    "DN 29": {
+      "file": "content/DN-029.md",
+      "sha256": "92fc09cf8ac3bd48cf3cd065d4f9fd8ae3d01028227e3a1394e8d2058dd96b5c",
+      "words": 2121,
+      "sections": 3
+    },
+    "DN 30": {
+      "file": "content/DN-030.md",
+      "sha256": "cd364b199df85607075a76faca20825c932fd27c83c454ce4a8a2751a26184f0",
+      "words": 2015,
+      "sections": 3
+    },
+    "DN 31": {
+      "file": "content/DN-031.md",
+      "sha256": "1826eead73c1b6fc1d95569bf571cd37938fcdc9d9d0872aac5b0ffa88a5ab37",
+      "words": 2417,
+      "sections": 3
+    },
+    "DN 32": {
+      "file": "content/DN-032.md",
+      "sha256": "66060b45d7249b0359f168c2c40e522ed07319806d09a29f542cbb462d687eb8",
+      "words": 1735,
+      "sections": 3
+    },
+    "DN 33": {
+      "file": "content/DN-033.md",
+      "sha256": "e5f5f32f80bce69bde8a18f889680438a394b13b96f7904576addb2a2b942fd7",
+      "words": 5177,
+      "sections": 3
+    },
+    "DN 34": {
+      "file": "content/DN-034.md",
+      "sha256": "e601fee31ae05a0657d83f72263c1ca7ae437a20904c424cd1260ea2084b5d8d",
+      "words": 4255,
+      "sections": 3
+    },
+    "MN 1": {
+      "file": "content/MN-001.md",
+      "sha256": "a8a4130c27023a9a851108c8337c25d329049e937e28327acd527939cd56d55e",
+      "words": 1912,
+      "sections": 3
+    },
+    "MN 2": {
+      "file": "content/MN-002.md",
+      "sha256": "53c9360bf0ebf61db5a0258db6a2a9a67c8efd11fca7a1cf949c4d7a7ec5550b",
+      "words": 2057,
+      "sections": 3
+    },
+    "MN 3": {
+      "file": "content/MN-003.md",
+      "sha256": "53d7b499d38569990322bd1a6a82f7d3b28356b52f401bd3cf749375f9c3b5f0",
+      "words": 2019,
+      "sections": 3
+    },
+    "MN 4": {
+      "file": "content/MN-004.md",
+      "sha256": "52e528d91e9cb7bf67fae9dce22d46a5b240a8495daa6295ec52f745810d2faf",
+      "words": 2022,
+      "sections": 3
+    },
+    "MN 5": {
+      "file": "content/MN-005.md",
+      "sha256": "80b480dddec38ed6bf9b916423bb3d237ed647db097d3b6075cad860c9790252",
+      "words": 1891,
+      "sections": 3
+    },
+    "MN 6": {
+      "file": "content/MN-006.md",
+      "sha256": "ec069b8f2f212bae6b54b2ee15f666f71a287ad651cdc21d9f51c32a0837f6f4",
+      "words": 1784,
+      "sections": 3
+    },
+    "MN 7": {
+      "file": "content/MN-007.md",
+      "sha256": "88d3f320bbbae4104470acff8b75e29989bfb627ca4501bdd3d4373ce23f31e7",
+      "words": 1924,
+      "sections": 3
+    },
+    "MN 8": {
+      "file": "content/MN-008.md",
+      "sha256": "2cb7433a7fec4d09420f30c1a70d13c0fc6bc24bfc2daba3ebabf7a3ab807dd6",
+      "words": 2100,
+      "sections": 3
+    },
+    "MN 9": {
+      "file": "content/MN-009.md",
+      "sha256": "1f6b4dd6948ba5c0bf764ccce3514b8fb3d0bf972d91455b44d115f1225edb24",
+      "words": 2197,
+      "sections": 3
+    },
+    "MN 10": {
+      "file": "content/MN-010.md",
+      "sha256": "9a8c6b86338238dc99c3e940f6b9205c5de416f42c35d12807367135beaff2df",
+      "words": 2596,
+      "sections": 3
+    },
+    "MN 11": {
+      "file": "content/MN-011.md",
+      "sha256": "0b35aaac1770af0628a7c6a463a511d6da6bc63aed187eebbf49550df638ce7d",
+      "words": 1759,
+      "sections": 3
+    },
+    "MN 12": {
+      "file": "content/MN-012.md",
+      "sha256": "d3729c2367fab577fdc6b6aac820fa5412fceb5cbe3da8f1b6556542cc7bf2cc",
+      "words": 2164,
+      "sections": 3
+    },
+    "MN 13": {
+      "file": "content/MN-013.md",
+      "sha256": "28f0b4db817191b09e20321565996ce5edf3891c808903fa36c3fe5fac10ca85",
+      "words": 1932,
+      "sections": 3
+    },
+    "MN 14": {
+      "file": "content/MN-014.md",
+      "sha256": "8cd12037719c4e81e731c545573d5d06c24cb49ecb9348ebab7292a9e927c93b",
+      "words": 1844,
+      "sections": 3
+    },
+    "MN 15": {
+      "file": "content/MN-015.md",
+      "sha256": "92bc7da258c92dd717a5f25dc2413be20c8603e5197e95e6fef358c8dec220f9",
+      "words": 1803,
+      "sections": 3
+    },
+    "MN 16": {
+      "file": "content/MN-016.md",
+      "sha256": "79ff78bcd3d56070632be8a297e4785987be94da89c654b7a271168b5e88f29d",
+      "words": 1763,
+      "sections": 3
+    },
+    "MN 17": {
+      "file": "content/MN-017.md",
+      "sha256": "a456dae3ace262cbc118b7f8b8b1cb9cf9afaab153a735056d1753d5fd01fede",
+      "words": 1670,
+      "sections": 3
+    },
+    "MN 18": {
+      "file": "content/MN-018.md",
+      "sha256": "8e4bebce25002bea1d18495d2eb39114307b486c25ba2ccdfbfabab7e302c12f",
+      "words": 1824,
+      "sections": 3
+    },
+    "MN 19": {
+      "file": "content/MN-019.md",
+      "sha256": "6236d90bf81a8fdede7c3d1dccdc4258011d9928abfb6ab44f29f4362f22c74c",
+      "words": 2507,
+      "sections": 3
+    },
+    "MN 20": {
+      "file": "content/MN-020.md",
+      "sha256": "5fa8bea6c24b1783274809f06ca118ffcb44a4a20fcad444d06b23ac16d6fc29",
+      "words": 2410,
+      "sections": 3
+    },
+    "MN 21": {
+      "file": "content/MN-021.md",
+      "sha256": "2b09bda664abefbbd98c5bbd3699b14f5f793af9a6e0bde799949def522f22d9",
+      "words": 2280,
+      "sections": 3
+    },
+    "MN 22": {
+      "file": "content/MN-022.md",
+      "sha256": "44fa66e43c32d5b19a18d475845ca200b78cc69634b518c140cc7b511be53bf3",
+      "words": 1908,
+      "sections": 3
+    },
+    "MN 23": {
+      "file": "content/MN-023.md",
+      "sha256": "220916577a73178b704468460243e1cb320a6286001b9aaebcf52ca5712f9b76",
+      "words": 2229,
+      "sections": 3
+    },
+    "MN 24": {
+      "file": "content/MN-024.md",
+      "sha256": "6178e536f0d4c52bf13a4459abb72d0f630918e253427e0da7638e744f8fc8a9",
+      "words": 1913,
+      "sections": 3
+    },
+    "MN 25": {
+      "file": "content/MN-025.md",
+      "sha256": "fc776707a82aa8b84910af15d8e4ba9ca86bab4d6048b90a9d91423c42234ecc",
+      "words": 2256,
+      "sections": 3
+    },
+    "MN 26": {
+      "file": "content/MN-026.md",
+      "sha256": "e85190d7820c44ea3104b131ef32f8db32c27dfaaaf98a548ec8a04a0313017a",
+      "words": 2442,
+      "sections": 3
+    },
+    "MN 27": {
+      "file": "content/MN-027.md",
+      "sha256": "489d46dca2fb8cdac69ebddf4a56b0c2a0ca5d4f3c0e53a37561d4289b2e07b7",
+      "words": 2113,
+      "sections": 3
+    },
+    "MN 28": {
+      "file": "content/MN-028.md",
+      "sha256": "66d9a92c2c8030f7d0f86bd76611591fe22c20c2f6786c07e4ffb8e3b33812e2",
+      "words": 2271,
+      "sections": 3
+    },
+    "MN 29": {
+      "file": "content/MN-029.md",
+      "sha256": "2c1e78a7150419e602c630ea67a707a2fe862572c5e7b17d85aa7129263d8459",
+      "words": 1745,
+      "sections": 3
+    },
+    "MN 30": {
+      "file": "content/MN-030.md",
+      "sha256": "5016be984d784752783a889f1f5f6f4f7098683136a1e4ee2e0aed99e9720aea",
+      "words": 2046,
+      "sections": 3
+    },
+    "MN 31": {
+      "file": "content/MN-031.md",
+      "sha256": "e25caecddf92d09b03d89f9b5e74f1c69707acf19f94d3391c91a1d0676b9ef0",
+      "words": 1957,
+      "sections": 3
+    },
+    "MN 32": {
+      "file": "content/MN-032.md",
+      "sha256": "03404d1313c564e581d4e66f31dc2a95bc80585ebac00f60e03d5a0d3e632a15",
+      "words": 1801,
+      "sections": 3
+    },
+    "MN 33": {
+      "file": "content/MN-033.md",
+      "sha256": "36fc3a9bb95020015d65c4ea7d6b3fd93c928aaf48cba9155b1a22bcf30d3c60",
+      "words": 2208,
+      "sections": 3
+    },
+    "MN 34": {
+      "file": "content/MN-034.md",
+      "sha256": "c11c51531b9b25e2ee01bb3c49014b78014b81400a565475aab6ee36e08b3061",
+      "words": 1964,
+      "sections": 3
+    },
+    "MN 35": {
+      "file": "content/MN-035.md",
+      "sha256": "ebece7f72fd8bbc16fc93d34a4c689614f7e64a4567834f03d4c651fb29fdd6c",
+      "words": 2100,
+      "sections": 3
+    },
+    "MN 36": {
+      "file": "content/MN-036.md",
+      "sha256": "cfaecd52d81480bf51cf4f8f73e3e62e3d12e096d1a0819fa13f722668bf000f",
+      "words": 2731,
+      "sections": 3
+    },
+    "MN 37": {
+      "file": "content/MN-037.md",
+      "sha256": "5d3e8af1217ff00cfe7e2c96204eb2abdbb1b4e8ca4402a5d6ce7e8d094c09fc",
+      "words": 1628,
+      "sections": 3
+    },
+    "MN 38": {
+      "file": "content/MN-038.md",
+      "sha256": "7b1e98e6a426fb5d3b44b4b8c04487a01bcc64c216f2a9b9f9ca34266342bba8",
+      "words": 2865,
+      "sections": 3
+    },
+    "MN 39": {
+      "file": "content/MN-039.md",
+      "sha256": "fa1961e99f6eea8ae7130246b0458a1304e04a92c3ed5c91a59efe7ab0fa569c",
+      "words": 2169,
+      "sections": 3
+    },
+    "MN 40": {
+      "file": "content/MN-040.md",
+      "sha256": "c20e0eca6815cbfac99c4bd2a3f307ce768ce638fd75d7f18afb250328fa3923",
+      "words": 1921,
+      "sections": 3
+    }
+  },
+  "note": "Written is a production status, not proof that all doctrinal review is complete."
+}

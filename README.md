@@ -4,7 +4,7 @@ Website: https://ptoan-pq.github.io/thu-vien-nikaya/
 
 Bản phát hành website học kinh bằng tiếng Việt, truy cập công khai không cần đăng nhập.
 
-Hiện có **196 bài tóm lược: DN 1–34, MN 1–152 và SN 1.1–1.10**. Toàn tạng chưa được tóm lược đầy đủ; các mục chưa có nội dung được ghi rõ trong giao diện.
+Hiện có **206 bài tóm lược: DN 1–34, MN 1–152 và SN 1.1–1.20**. Toàn tạng chưa được tóm lược đầy đủ; các mục chưa có nội dung được ghi rõ trong giao diện.
 
 Mỗi bài có bối cảnh, nội dung cốt lõi và phần ứng dụng. Các phần nguyên văn chỉ được dẫn về BuddhaSasana; kho này không chứa bộ nhớ đệm nguyên văn dùng khi nghiên cứu.
 

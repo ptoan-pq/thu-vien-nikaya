@@ -4,7 +4,9 @@ Website: https://ptoan-pq.github.io/thu-vien-nikaya/
 
 Bản phát hành website học kinh bằng tiếng Việt, truy cập công khai không cần đăng nhập.
 
-Hiện có **206 bài tóm lược: DN 1–34, MN 1–152 và SN 1.1–1.20**. Toàn tạng chưa được tóm lược đầy đủ; các mục chưa có nội dung được ghi rõ trong giao diện.
+Hiện có **187 bài phân tích: DN 1–34, MN 1–152 và SN 1.20**. SN 1.1–1.19 chuyển sang liên kết nguyên văn theo cách đọc dành cho kinh ngắn. Các bản thảo đã viết vẫn được giữ trong dự án nguồn.
+
+Thư viện tách **Kinh dài · phân tích trước** và **Kinh ngắn · đọc nguyên văn**. Danh sách Tương Ưng/Tăng Chi được sơ tuyển theo độ dài nguồn; các nhóm nhiều số giữ riêng để rà tiếp. Đây chưa phải xác nhận đã đối chiếu mọi số kinh của toàn tạng. Chỉ các bài có nội dung mới được tính là hoàn tất.
 
 Mỗi bài có bối cảnh, nội dung cốt lõi và phần ứng dụng. Các phần nguyên văn chỉ được dẫn về BuddhaSasana; kho này không chứa bộ nhớ đệm nguyên văn dùng khi nghiên cứu.
 

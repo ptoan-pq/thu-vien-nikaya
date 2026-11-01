@@ -1,6 +1,27 @@
 {
   "catalogue_suttas": 206,
-  "written_articles": 206,
+  "written_articles": 187,
+  "source_only_articles": [
+    "SN 1.1",
+    "SN 1.2",
+    "SN 1.3",
+    "SN 1.4",
+    "SN 1.5",
+    "SN 1.6",
+    "SN 1.7",
+    "SN 1.8",
+    "SN 1.9",
+    "SN 1.10",
+    "SN 1.11",
+    "SN 1.12",
+    "SN 1.13",
+    "SN 1.14",
+    "SN 1.15",
+    "SN 1.16",
+    "SN 1.17",
+    "SN 1.18",
+    "SN 1.19"
+  ],
   "articles": {
     "DN 1": {
       "file": "content/DN-001.md",
@@ -1118,120 +1139,6 @@
       "words": 1581,
       "sections": 3
     },
-    "SN 1.1": {
-      "file": "content/SN-001-001.md",
-      "sha256": "675f4f44f08b926963a75e7ab867da31017b54d34123f02b40eca51acc6514b0",
-      "words": 949,
-      "sections": 3
-    },
-    "SN 1.2": {
-      "file": "content/SN-001-002.md",
-      "sha256": "d06a56e38cb8b68f93e26965c97bc4cd17a1487cced9f78be655d011e8163028",
-      "words": 818,
-      "sections": 3
-    },
-    "SN 1.3": {
-      "file": "content/SN-001-003.md",
-      "sha256": "712e44c655f8219e412e9cb7f56042ed6c5dc99e7e37a42ab2e8f68dfc49c3e8",
-      "words": 815,
-      "sections": 3
-    },
-    "SN 1.4": {
-      "file": "content/SN-001-004.md",
-      "sha256": "0daf570b68a7365f29a574e3efbe54910d00b8f602dccb67f55304aa1439545a",
-      "words": 801,
-      "sections": 3
-    },
-    "SN 1.5": {
-      "file": "content/SN-001-005.md",
-      "sha256": "cd2d519b28a690c600387fad9d6db30b381114cd614dbe3cc670e22eb3eca15a",
-      "words": 1024,
-      "sections": 3
-    },
-    "SN 1.6": {
-      "file": "content/SN-001-006.md",
-      "sha256": "9f5766ee8d1c798b21aa3551a0fec19cfd6c921a6c505045c3b7b09bdfc7857b",
-      "words": 905,
-      "sections": 3
-    },
-    "SN 1.7": {
-      "file": "content/SN-001-007.md",
-      "sha256": "fea5b9c4412f0cb8b1d65655ff2d67889a9e7ce4a55f9be1f5350db3c651c326",
-      "words": 755,
-      "sections": 3
-    },
-    "SN 1.8": {
-      "file": "content/SN-001-008.md",
-      "sha256": "183973c5860375efa0b80987789bf188a4556b983b73cfca05e942fe077cba8d",
-      "words": 764,
-      "sections": 3
-    },
-    "SN 1.9": {
-      "file": "content/SN-001-009.md",
-      "sha256": "d09e3b17013034a3f2cc9c95b528bab4b28cb92d831aa8f3a396b421fcf47758",
-      "words": 725,
-      "sections": 3
-    },
-    "SN 1.10": {
-      "file": "content/SN-001-010.md",
-      "sha256": "79c04cacb8714491de8b82a0b7c2a97db6576ad96ea867025774d09ee6c0c23b",
-      "words": 837,
-      "sections": 3
-    },
-    "SN 1.11": {
-      "file": "content/SN-001-011.md",
-      "sha256": "5ea04cc464198716b13e64b80227d46058e86706a6ce47a7539a422ec4036155",
-      "words": 890,
-      "sections": 3
-    },
-    "SN 1.12": {
-      "file": "content/SN-001-012.md",
-      "sha256": "2f99ddc76f2e0b70e7062a699bf57241c33591e7159abe856c6f25f0b0d1f168",
-      "words": 849,
-      "sections": 3
-    },
-    "SN 1.13": {
-      "file": "content/SN-001-013.md",
-      "sha256": "3059d62713eab121be278dacccc12d6204db970ea7f76e91c2d715fdbd14fef3",
-      "words": 873,
-      "sections": 3
-    },
-    "SN 1.14": {
-      "file": "content/SN-001-014.md",
-      "sha256": "29157612d5975d877141d254611e9cbd0840c32a96b92b06647fcd16828de4aa",
-      "words": 880,
-      "sections": 3
-    },
-    "SN 1.15": {
-      "file": "content/SN-001-015.md",
-      "sha256": "a1591627d64117bc60572dc46ed7155a52ed32ae53b489e79447cd53f57d4c40",
-      "words": 799,
-      "sections": 3
-    },
-    "SN 1.16": {
-      "file": "content/SN-001-016.md",
-      "sha256": "466064931bf68fdfb96a3a0cf0feaf01ce036de3ce52658315c0ee16ce3978cb",
-      "words": 863,
-      "sections": 3
-    },
-    "SN 1.17": {
-      "file": "content/SN-001-017.md",
-      "sha256": "472c6e6c1337e54fd9999ddc3e23e101eddf45729994ca9b58b3e4cb434c530e",
-      "words": 882,
-      "sections": 3
-    },
-    "SN 1.18": {
-      "file": "content/SN-001-018.md",
-      "sha256": "369c02c51fbe99b190c6b8b7eecbfc865a4c84fcae444f77f6375720a1f34f68",
-      "words": 868,
-      "sections": 3
-    },
-    "SN 1.19": {
-      "file": "content/SN-001-019.md",
-      "sha256": "221eee52daafc09828b9d0f407ef7e9cd42cc7ed4095eed8b1d64f0e9051e6ca",
-      "words": 874,
-      "sections": 3
-    },
     "SN 1.20": {
       "file": "content/SN-001-020.md",
       "sha256": "9d41f2da7e1e8fc592cbe050a1a314bad602054991325886b2cb2baa5f242db3",
@@ -1239,5 +1146,5 @@
       "sections": 3
     }
   },
-  "note": "Written is a production status, not proof that all doctrinal review is complete."
+  "note": "Short readings open the original source; stored drafts are retained. Length-screened source headings are not a verified canonical catalogue. Written is not proof of independent doctrinal review."
 }

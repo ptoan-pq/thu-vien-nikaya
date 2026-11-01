@@ -1,12 +1,12 @@
 {
-  "source_commit": "fe5134e7d7d4313a0f0fc152f9bb36400d2f5f0c",
-  "written_articles": 168,
+  "source_commit": "23b33b67a25fd5953e2f4a0535da2bc2f2b8b4c3",
+  "written_articles": 174,
   "coverage": [
     "DN 1–34",
-    "MN 1–134"
+    "MN 1–140"
   ],
   "complete_canon": false,
   "editorial_style": "viet-van-nguyen-hien-le-v4",
-  "editorial_reviewed_articles": 168,
+  "editorial_reviewed_articles": 174,
   "approved_sample": "MN 87"
 }

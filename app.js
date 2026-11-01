@@ -51,7 +51,7 @@ function render() {
     const details=document.createElement('details');
     const summary=document.createElement('summary');summary.className='source-heading';summary.textContent='Mục lục nguồn và các nhóm bài gộp';details.append(summary);
     for(const group of groups){
-      const a=document.createElement('a');a.className='source-group-row';a.textContent=group.title;a.href=group.source_url;a.target='_blank';a.rel='noopener';details.append(a);
+      const a=document.createElement('a');a.className='source-group-row';a.innerHTML=`<span class="sutta-code">${escapeHtml(group.book)}</span><strong>${escapeHtml(group.title)}</strong><span class="article-status">Mục lục nguồn ↗</span>`;a.href=group.source_url;a.target='_blank';a.rel='noopener';details.append(a);
     }
     suttaList.append(details);
   }

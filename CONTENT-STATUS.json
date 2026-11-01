@@ -1,6 +1,6 @@
 {
   "catalogue_suttas": 186,
-  "written_articles": 152,
+  "written_articles": 158,
   "articles": {
     "DN 1": {
       "file": "content/DN-001.md",
@@ -912,6 +912,42 @@
       "file": "content/MN-118.md",
       "sha256": "e935206a5c8fc7cdd8de83a3103e826fce5a5d45fc75bccffe8cc57072901329",
       "words": 2003,
+      "sections": 3
+    },
+    "MN 119": {
+      "file": "content/MN-119.md",
+      "sha256": "e6d916de110f99ed0e79a0824a1fe6f81d8f489ca7aa5e613eec0c26385705a3",
+      "words": 2219,
+      "sections": 3
+    },
+    "MN 120": {
+      "file": "content/MN-120.md",
+      "sha256": "f11f7827566644dc6a0e30351c3c77a2c15d49b0171cae244cdc11fd79eb3adc",
+      "words": 1648,
+      "sections": 3
+    },
+    "MN 121": {
+      "file": "content/MN-121.md",
+      "sha256": "56dbde603cf490dacf2f8ca1c4c349ac830f8938cf0c10a1cab0c2f150c8663d",
+      "words": 1614,
+      "sections": 3
+    },
+    "MN 122": {
+      "file": "content/MN-122.md",
+      "sha256": "82982ec523359252af503576c6469687e1c14b2ec35a7049056e501c3c0621ad",
+      "words": 2158,
+      "sections": 3
+    },
+    "MN 123": {
+      "file": "content/MN-123.md",
+      "sha256": "4f7ba2931e5c96ffdfdc54c3f8b07fe03aef14e30a1a9fad4af5cd0753d04295",
+      "words": 1535,
+      "sections": 3
+    },
+    "MN 124": {
+      "file": "content/MN-124.md",
+      "sha256": "5da51f8c8d67c4de4975e49d4c564e906bc1e42d97cf10755b4d7ab000c12fe1",
+      "words": 1638,
       "sections": 3
     }
   },

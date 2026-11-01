@@ -1,6 +1,6 @@
 {
   "catalogue_suttas": 186,
-  "written_articles": 100,
+  "written_articles": 103,
   "articles": {
     "DN 1": {
       "file": "content/DN-001.md",
@@ -600,6 +600,24 @@
       "file": "content/MN-066.md",
       "sha256": "4997456e2885c594c8be987f6f12ccb6d14b08c8168ff2a128a14a53c0ec020f",
       "words": 2225,
+      "sections": 3
+    },
+    "MN 67": {
+      "file": "content/MN-067.md",
+      "sha256": "11a5a557916d1eaa138752de9869f771db527e7f8864b8563d97d4051d35b13d",
+      "words": 1828,
+      "sections": 3
+    },
+    "MN 68": {
+      "file": "content/MN-068.md",
+      "sha256": "d7a1b62dc8a72280203a25e85be95a3fbfd357c5820768e0505747f71825569b",
+      "words": 1916,
+      "sections": 3
+    },
+    "MN 69": {
+      "file": "content/MN-069.md",
+      "sha256": "93064a0be8b7f8cce956421a4f51462db385506a457b210bb40109cd4b9ecf4d",
+      "words": 2046,
       "sections": 3
     }
   },

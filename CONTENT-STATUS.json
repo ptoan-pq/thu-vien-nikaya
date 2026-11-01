@@ -1,6 +1,6 @@
 {
   "catalogue_suttas": 186,
-  "written_articles": 114,
+  "written_articles": 124,
   "articles": {
     "DN 1": {
       "file": "content/DN-001.md",
@@ -684,6 +684,66 @@
       "file": "content/MN-080.md",
       "sha256": "3d2b93eb9344750f8c41e06d8396fed77986144f72cc0d796097d1068f2eae88",
       "words": 1642,
+      "sections": 3
+    },
+    "MN 81": {
+      "file": "content/MN-081.md",
+      "sha256": "113569379489b5673ad2d8e981b0ac3a55f395aa29636578c895631bcb5d032d",
+      "words": 1691,
+      "sections": 3
+    },
+    "MN 82": {
+      "file": "content/MN-082.md",
+      "sha256": "569c7c5a9bd356a4794d1ff5cc162e7fecba3f460d36b813ff50fc9ea1239eaa",
+      "words": 2155,
+      "sections": 3
+    },
+    "MN 83": {
+      "file": "content/MN-083.md",
+      "sha256": "b56df19c9dede301e59a571db0b8b0dfe5a5800a3e56dae0acd4d217eea02eb7",
+      "words": 1711,
+      "sections": 3
+    },
+    "MN 84": {
+      "file": "content/MN-084.md",
+      "sha256": "a600f94382f72042cc9b4a2888d13d45e0ac52a574831597a6fab495de4c00e2",
+      "words": 1686,
+      "sections": 3
+    },
+    "MN 85": {
+      "file": "content/MN-085.md",
+      "sha256": "268fbc2ab5079804b2cdc670cc09872fdf6018f92a65139f2540c849b8fe2305",
+      "words": 2474,
+      "sections": 3
+    },
+    "MN 86": {
+      "file": "content/MN-086.md",
+      "sha256": "447db69e105142e85df1d952254d9cff5e96dd278b64abb529c5196a9563d1bb",
+      "words": 2072,
+      "sections": 3
+    },
+    "MN 87": {
+      "file": "content/MN-087.md",
+      "sha256": "66221ed43c5901624150d6585b69d998096ea78efa743cc0a5eef51a1f6c0d4c",
+      "words": 1599,
+      "sections": 3
+    },
+    "MN 88": {
+      "file": "content/MN-088.md",
+      "sha256": "44228b9ea937a63485d88763cd8d9a0943bf25b5b510b59a8af5fac6148f6c9e",
+      "words": 1591,
+      "sections": 3
+    },
+    "MN 89": {
+      "file": "content/MN-089.md",
+      "sha256": "43509e74b5bb4b3bf5edc61df0811a6b634eb7efe2e18a6607e6196c45222520",
+      "words": 1762,
+      "sections": 3
+    },
+    "MN 90": {
+      "file": "content/MN-090.md",
+      "sha256": "66a31dae11e20e697315987dc54f6d593ef056f4a4e7b1e28b534814cc784d5f",
+      "words": 1853,
       "sections": 3
     }
   },

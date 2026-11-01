@@ -1,9 +1,9 @@
 {
-  "source_commit": "9736193174dbfe47d54755b878fe7c086e1e2937",
-  "written_articles": 124,
+  "source_commit": "f7b441d65acf7c5c109f717bd2ec1be236cd1249",
+  "written_articles": 128,
   "coverage": [
     "DN 1–34",
-    "MN 1–90"
+    "MN 1–94"
   ],
   "complete_canon": false
 }

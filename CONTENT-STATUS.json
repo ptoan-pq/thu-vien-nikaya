@@ -1,6 +1,6 @@
 {
   "catalogue_suttas": 186,
-  "written_articles": 74,
+  "written_articles": 86,
   "articles": {
     "DN 1": {
       "file": "content/DN-001.md",
@@ -444,6 +444,78 @@
       "file": "content/MN-040.md",
       "sha256": "c20e0eca6815cbfac99c4bd2a3f307ce768ce638fd75d7f18afb250328fa3923",
       "words": 1921,
+      "sections": 3
+    },
+    "MN 41": {
+      "file": "content/MN-041.md",
+      "sha256": "06623e428c4bfcfcc7c94cb1869beb6a15264adc2d51899382841b8e347ede42",
+      "words": 2074,
+      "sections": 3
+    },
+    "MN 42": {
+      "file": "content/MN-042.md",
+      "sha256": "933f64464792ed71a2bf58af269f1b7d54d68e17bf32e779aabd6f7732d050fe",
+      "words": 1962,
+      "sections": 3
+    },
+    "MN 43": {
+      "file": "content/MN-043.md",
+      "sha256": "ddf5dd35850e78c94a1f8139f2407cd9230a424c58c8c917cfda65b5bfa05b88",
+      "words": 2181,
+      "sections": 3
+    },
+    "MN 44": {
+      "file": "content/MN-044.md",
+      "sha256": "d9a2e8f03a1bf0177945f865101f9665a63699cb9b40a7c7d81b16c22085c564",
+      "words": 2227,
+      "sections": 3
+    },
+    "MN 45": {
+      "file": "content/MN-045.md",
+      "sha256": "aa85ea06a838685a4d011cbec42bd39829bc72a63fed56f35a5be73c50a4b09a",
+      "words": 1760,
+      "sections": 3
+    },
+    "MN 46": {
+      "file": "content/MN-046.md",
+      "sha256": "795c6e6811a28fbe9ca8ce994855b53de737cf06f1dc568c356c9068e2c9060e",
+      "words": 1879,
+      "sections": 3
+    },
+    "MN 47": {
+      "file": "content/MN-047.md",
+      "sha256": "a7baac1bf4cae58de74aa929052e3837993485914fc2c20fab09bec9c30e0e22",
+      "words": 1998,
+      "sections": 3
+    },
+    "MN 48": {
+      "file": "content/MN-048.md",
+      "sha256": "1f1314f34470a9068d8d4e2c490420e41b78cd57d16c7d5723e8ad02adb4b8b8",
+      "words": 2268,
+      "sections": 3
+    },
+    "MN 49": {
+      "file": "content/MN-049.md",
+      "sha256": "a8761266421274b53a24a8bf9a4ffcf99a8829aa930bacd51813ba79367a4f07",
+      "words": 2137,
+      "sections": 3
+    },
+    "MN 50": {
+      "file": "content/MN-050.md",
+      "sha256": "bf3c43cd3f694320c719f1d45811eaa1480cf3feb77fd2fcc4174ec9b2dfc9f3",
+      "words": 2060,
+      "sections": 3
+    },
+    "MN 51": {
+      "file": "content/MN-051.md",
+      "sha256": "3092bdeb74f022a16477c2752f85beedaeb441108fcee74b10bede022a0f1cd8",
+      "words": 2399,
+      "sections": 3
+    },
+    "MN 52": {
+      "file": "content/MN-052.md",
+      "sha256": "5d2cd08fd47197389536720f84089a1f451ea631ff71da2d01687325bf3c60cb",
+      "words": 2167,
       "sections": 3
     }
   },

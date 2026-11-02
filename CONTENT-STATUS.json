@@ -1,6 +1,6 @@
 {
-  "catalogue_suttas": 214,
-  "written_articles": 195,
+  "catalogue_suttas": 218,
+  "written_articles": 199,
   "source_only_articles": [
     "SN 1.1",
     "SN 1.2",
@@ -1191,6 +1191,30 @@
       "file": "content/SN-006-001.md",
       "sha256": "4a05d4ee0300667a46b801a6434d8fadcc79658e5ce6b3a05ad97610d0fd4682",
       "words": 1579,
+      "sections": 3
+    },
+    "SN 6.10": {
+      "file": "content/SN-006-010.md",
+      "sha256": "a8b9825a0499314edb1bf950cbbe59d1ce6189168820ec65b4c1c3a14816b425",
+      "words": 1330,
+      "sections": 3
+    },
+    "SN 6.14": {
+      "file": "content/SN-006-014.md",
+      "sha256": "e9113b2456315d31e0fec045cab4d961ab1f0cda94fbd29b74234d5ea115e034",
+      "words": 1325,
+      "sections": 3
+    },
+    "SN 7.9": {
+      "file": "content/SN-007-009.md",
+      "sha256": "be9651ca44e9024d26a3e638f8fc22b367199e4528d88d641064d750378cb726",
+      "words": 1714,
+      "sections": 3
+    },
+    "SN 11.3": {
+      "file": "content/SN-011-003.md",
+      "sha256": "6866a2de628b1dd6df80d14709876c1031a43d4073647777ec99305507615f98",
+      "words": 1728,
       "sections": 3
     }
   },

@@ -1,17 +1,17 @@
 {
-  "source_commit": "ab3a8883212b2dd75cfa773995e60566fd1edab1",
-  "written_articles": 195,
+  "source_commit": "d209da75a8630b3d4e26b6e093e066fbe70ae374",
+  "written_articles": 199,
   "coverage": [
     "DN 1–34: phân tích",
     "MN 1–152: phân tích",
-    "SN 1.20, SN 2.23, SN 2.29, SN 3.18, SN 3.19, SN 3.21, SN 3.25, SN 4.25, SN 6.1: phân tích",
+    "SN 1.20, SN 2.23, SN 2.29, SN 3.18, SN 3.19, SN 3.21, SN 3.25, SN 4.25, SN 6.1, SN 6.10, SN 6.14, SN 7.9, SN 11.3: phân tích",
     "SN 1.1–1.19: nguyên văn nguồn"
   ],
   "complete_canon": false,
   "editorial_style": "viet-van-nguyen-hien-le-v4",
-  "editorial_reviewed_articles": 195,
+  "editorial_reviewed_articles": 199,
   "approved_sample": "MN 87",
   "reading_policy": "long-analysis-first; short-original-source-links",
   "classification": "Preliminary screening by source length; review depth and canonical IDs before writing.",
-  "retained_content_drafts": 214
+  "retained_content_drafts": 218
 }
